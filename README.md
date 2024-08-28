@@ -7,7 +7,7 @@
 *Data de Término Estimada:* (À definir)  
 *Responsáveis:* Davi Souza   
 *Versão*: 1.0  
-*Última Atualização:* (À definir)
+*Última Atualização:* (28/08/2024)
 
 ### *1.1. Objetivo*
 Desenvolver programação back end.
